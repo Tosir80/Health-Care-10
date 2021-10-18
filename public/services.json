@@ -1,0 +1,54 @@
+
+[
+    {
+        "id": 1,
+        "name" : "DENTAL",
+        "description": "Dental care is the maintenance of healthy teeth and may refer to: Oral hygiene, the practice of keeping the mouth and teeth clean in order to prevent dental disorders. Dentistry, the professional care of teeth, including professional oral hygiene and dental surgery",
+        "img":"https://i.ibb.co/G9fswdG/1.jpg"
+    },
+    {
+        "id": 2,
+        "name" : "IMPLANTS",
+        "description": "Dental implants can be used to replace a single tooth, several teeth, or all of the teeth. The goal of teeth replacement in dentistry is to restore function as well as esthetics. Dentures are the more affordable option for replacement teeth but are the least desirable because of the inconvenience of a removable appliance in the mouth.",
+        "img":"https://i.ibb.co/WcQpbpG/2.jpg"
+    },
+
+    {
+        "id": 3,
+        "name" : "DENTISTRY",
+        "description": "Dentistry is the diagnosis, treatment, and prevention of conditions, disorders, and diseases of the teeth, gums, mouth, and jaw. Often considered necessary for complete oral health, dentistry can have an impact on the health of your entire body..",
+        "img":"https://i.ibb.co/XSJt0r1/3.jpg"
+    },
+    {
+        "id": 4,
+        "name" : "BRIDGES",
+        "description": "A bridge is a custom-made replacement tooth or teeth that fill the space where one or more teeth are missing. The bridge permanently restores your bite and helps keep the natural shape of your face.",
+        "img":"https://i.ibb.co/T2q9ys4/4.jpg"
+    },
+
+    {
+        "id": 5,
+        "name" : "CROWNS",
+        "description": "Dental crowns are tooth-shaped “caps” that can be placed over your tooth. Think of it like a snug hat for your tooth. The crown restores the tooth's shape, size, strength and appearance. The dental crown is cemented into place on your tooth and it covers the visible portion of the tooth.",
+        "img":"https://i.ibb.co/ypzZzfm/5.jpg"
+    },
+
+    {
+        "id": 6,
+        "name" : "INVISALIGN",
+        "description":"Invisalign is an orthodontic treatment that straightens teeth without the use of metal braces. Invisalign is a series of custom-made clear braces that cover your teeth and gently pull them into the proper position over time.",
+        "img":"https://i.ibb.co/Nt9MMhN/6.jpg"
+    },
+    {
+        "id": 7,
+        "name" : "VENEERS",
+        "description":"One of the most asked questions we receive at Burkburnett Family Dental about porcelain veneers is if they ruin your teeth. As one of the most popular cosmetic dentistry treatments,",
+        "img":"https://i.ibb.co/RDdHGtg/7.jpg"
+    },
+    {
+        "id": 8,
+        "name" : " WHITENING",
+        "description":"Professional teeth whiteners are safe, effective, and done under the supervision of a dental professional. In most cases, it is worth the extra cost to visit the dentist to get long-lasting, safe results. Yes, teeth whitening is very safe when done correctly.",
+        "img":"https://i.ibb.co/XDHbCPF/8.jpg"
+    }
+]
