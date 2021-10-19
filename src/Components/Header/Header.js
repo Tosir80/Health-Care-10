@@ -17,6 +17,7 @@ const Header = () => {
           <Nav className='ms-auto'>
             <Nav.Link as={Link} to='/home'>Home </Nav.Link>
             <Nav.Link  as={Link} to="/about">About </Nav.Link>
+            <Nav.Link  as={Link} to="/contact">Contact</Nav.Link>
             <div className="d-flex align-items-center m-0 justify-content-center">
                     <div className="d-flex align-items-center ">
                    <img className="rounded-circle w-25 mx-auto" src={user?.photoURL} alt="" />

@@ -3,7 +3,7 @@ import { Carousel } from 'react-bootstrap';
 import './Banner.css'
 const Banner = () => {
     return (
-      <div className="banner">
+      <div className='banner'>
         <Carousel>
           <Carousel.Item>
             <img
@@ -11,9 +11,13 @@ const Banner = () => {
               src='/images/1.jpg'
               alt='First slide'
             />
-            <Carousel.Caption>
-              <h3>First slide label</h3>
-              <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            <Carousel.Caption className='text-dark bg-info'>
+              <h3>DENTAL</h3>
+              <p>
+                Dental care is the maintenance of healthy teeth and may refer
+                to: Oral hygiene, the practice of keeping the mouth and teeth
+                clean in order to prevent dental disorders. Dentistry,{' '}
+              </p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -23,9 +27,12 @@ const Banner = () => {
               alt='Second slide'
             />
 
-            <Carousel.Caption>
-              <h3>Second slide label</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <Carousel.Caption className='text-dark bg-info'>
+              <h3>IMPLANTS</h3>
+              <p>
+                Dental implants can be used to replace a single tooth, several
+                teeth,
+              </p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -35,10 +42,11 @@ const Banner = () => {
               alt='Third slide'
             />
 
-            <Carousel.Caption>
-              <h3>Third slide label</h3>
+            <Carousel.Caption className='text-dark bg-info'>
+              <h3>DENTISTRY</h3>
               <p>
-                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+                Dentistry is the diagnosis, treatment, and prevention of
+                conditions, disorders,.
               </p>
             </Carousel.Caption>
           </Carousel.Item>

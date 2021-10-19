@@ -1,0 +1,23 @@
+.contact{
+   padding:20px;
+   color:rgba(59, 63, 59, 0.411);
+}
+
+.contact h3{
+       font-size: 80px;
+}
+
+.contact::after{
+    content: '';
+    display: block;
+    background-color: rgb(255, 153, 0);
+    max-width: 500px;
+    height: 3px; 
+    margin: 0 auto;
+}
+
+.icon{
+    font-size: 30px;
+    color:orange;
+    
+}

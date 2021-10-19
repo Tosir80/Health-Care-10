@@ -23,7 +23,7 @@ const handleForm=(e)=>{
     return
     }
     if(!/(?=.*[A-Z].*[A-Z])/.test(String(password))){
-        setError(password)
+        setError("Password must be 2 Upparcase")
         return
     }
      setError('');

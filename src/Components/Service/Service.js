@@ -7,7 +7,7 @@ const Service = ({service}) => {
     const url=`service/${id}`
     return (
       <Col>
-        <div className='p-2 bg-primary m-2 rounded text-white'>
+        <div className='p-2 m-2 bg-primary rounded text-white shadow'>
           <img src={img} className='img-fluid' alt='' />
           <h2 className="pt-2">{name}</h2>
           <p>{description.slice(0,100)}</p>
